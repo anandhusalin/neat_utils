@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Added promotional banner to `README.md`.
+
 ## 0.1.0
 
 * Initial release of `neat_utils`.

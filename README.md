@@ -1,5 +1,7 @@
 # neat_utils
 
+![neat_utils banner](https://raw.githubusercontent.com/anandhusalin/neat_utils/main/assets/logo.png)
+
 A lightweight and essential Flutter utility package designed to reduce boilerplate and speed up development.
 
 ## Features
