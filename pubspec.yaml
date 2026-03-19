@@ -1,9 +1,9 @@
 name: neat_utils
 description: "A lightweight Flutter utility package featuring context extensions, string validations, responsive widgets, and easy spacing (Gap)."
 version: 0.1.0
-homepage: https://github.com/anandhusalin/neat_utils
-repository: https://github.com/anandhusalin/neat_utils
-issue_tracker: https://github.com/anandhusalin/neat_utils/issues
+homepage: https://github.com/anandhusalin1997/neat_utils
+repository: https://github.com/anandhusalin1997/neat_utils
+issue_tracker: https://github.com/anandhusalin1997/neat_utils/issues
 
 environment:
   sdk: ^3.10.7
